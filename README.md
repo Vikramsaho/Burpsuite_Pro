@@ -4,3 +4,5 @@ Download Java 8 using link:- https://www.openlogic.com/openjdk-downloads?field_j
 
 
 And download burpsuite pro 
+
+Using Link :-  https://drive.usercontent.google.com/download?id=1R19bRsw72NeGTlwJ9U96rOp8mk8fHQ9m&export=download&authuser=0
